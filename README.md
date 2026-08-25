@@ -1,2 +1,2 @@
 # studies-python-datascience
-Exercicies Python and DataScience. 
+Exercises in Python and Data Science.
